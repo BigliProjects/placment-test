@@ -1,0 +1,5 @@
+Miscellaneous
+
+1. an abstract class can has only one abstract function, but if a class implements an interface must implements all the methods in this interface
+2. we can not inherits from a final class, but with the abstract we can
+3. the transient keyword is used for skip something like the JPA Annotation @Transient
